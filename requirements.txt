@@ -1,0 +1,4 @@
+dotenv==0.9.9
+streamlit==1.45.1
+tensorflow==2.19.0
+groq==0.24.0

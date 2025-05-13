@@ -1,0 +1,7 @@
+# Python envirnment
+.venv
+venv
+
+# Environment variables
+.env
+
